@@ -1,0 +1,20 @@
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\bin\Debug\net6.0-windows\WPF_PBKK_B_Javier Nararya A S_5025211245.exe
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\bin\Debug\net6.0-windows\WPF_PBKK_B_Javier Nararya A S_5025211245.deps.json
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\bin\Debug\net6.0-windows\WPF_PBKK_B_Javier Nararya A S_5025211245.runtimeconfig.json
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\bin\Debug\net6.0-windows\WPF_PBKK_B_Javier Nararya A S_5025211245.dll
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\bin\Debug\net6.0-windows\WPF_PBKK_B_Javier Nararya A S_5025211245.pdb
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\obj\Debug\net6.0-windows\App.g.cs
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\obj\Debug\net6.0-windows\WPF_PBKK_B_Javier Nararya A S_5025211245_MarkupCompile.cache
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\obj\Debug\net6.0-windows\WPF_PBKK_B_Javier Nararya A S_5025211245_MarkupCompile.lref
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\obj\Debug\net6.0-windows\MainWindow.baml
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\obj\Debug\net6.0-windows\WPF_PBKK_B_Javier Nararya A S_5025211245.g.resources
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\obj\Debug\net6.0-windows\WPF_PBKK_B_Javier Nararya A S_5025211245.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\obj\Debug\net6.0-windows\WPF_PBKK_B_Javier Nararya A S_5025211245.AssemblyInfoInputs.cache
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\obj\Debug\net6.0-windows\WPF_PBKK_B_Javier Nararya A S_5025211245.AssemblyInfo.cs
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\obj\Debug\net6.0-windows\WPF_PBKK_B_Javier Nararya A S_5025211245.csproj.CoreCompileInputs.cache
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\obj\Debug\net6.0-windows\WPF_PBKK_B_Javier Nararya A S_5025211245.dll
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\obj\Debug\net6.0-windows\refint\WPF_PBKK_B_Javier Nararya A S_5025211245.dll
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\obj\Debug\net6.0-windows\WPF_PBKK_B_Javier Nararya A S_5025211245.pdb
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\obj\Debug\net6.0-windows\WPF_PBKK_B_Javier Nararya A S_5025211245.genruntimeconfig.cache
+D:\KULIAH ITS\Semester 5 Bismillah YaAllah\Pemrograman Frame Work\WPF_PBKK_B_Javier Nararya A S_5025211245\obj\Debug\net6.0-windows\ref\WPF_PBKK_B_Javier Nararya A S_5025211245.dll
